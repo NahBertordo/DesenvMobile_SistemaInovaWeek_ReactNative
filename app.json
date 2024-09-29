@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "sistema-inova",
+    "slug": "snack-97c59002-0836-4596-b574-08af60479159",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Sistema para o inovaweek, com tela home, login, cadastro, esqueci senha.\n"
+  }
+}
